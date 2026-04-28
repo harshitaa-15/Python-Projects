@@ -4,7 +4,6 @@ import plotext as plt
 import time
 import sys
 
-
 user_name = input("Enter your name:")
 
 WELCOME_ASCII = r"""
